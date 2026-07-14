@@ -1,0 +1,301 @@
+Department,Hospital_Stay_Days
+Internal Medicine,8.0
+Internal Medicine,6.7
+Internal Medicine,8.3
+Internal Medicine,10.0
+Internal Medicine,6.5
+Internal Medicine,6.5
+Internal Medicine,10.2
+Internal Medicine,8.5
+Internal Medicine,6.1
+Internal Medicine,8.1
+Internal Medicine,6.1
+Internal Medicine,6.1
+Internal Medicine,7.5
+Internal Medicine,3.2
+Internal Medicine,3.6
+Internal Medicine,5.9
+Internal Medicine,5.0
+Internal Medicine,7.6
+Internal Medicine,5.2
+Internal Medicine,4.2
+Internal Medicine,9.9
+Internal Medicine,6.5
+Internal Medicine,7.1
+Internal Medicine,4.2
+Internal Medicine,5.9
+Internal Medicine,7.2
+Internal Medicine,4.7
+Internal Medicine,7.8
+Internal Medicine,5.8
+Internal Medicine,6.4
+Internal Medicine,5.8
+Internal Medicine,10.7
+Internal Medicine,7.0
+Internal Medicine,4.9
+Internal Medicine,8.6
+Internal Medicine,4.6
+Internal Medicine,7.4
+Internal Medicine,3.1
+Internal Medicine,4.3
+Internal Medicine,7.4
+Internal Medicine,8.5
+Internal Medicine,7.3
+Internal Medicine,6.8
+Internal Medicine,6.4
+Internal Medicine,4.0
+Internal Medicine,5.6
+Internal Medicine,6.1
+Internal Medicine,9.1
+Internal Medicine,7.7
+Internal Medicine,3.5
+Internal Medicine,7.6
+Internal Medicine,6.2
+Internal Medicine,5.6
+Internal Medicine,8.2
+Internal Medicine,9.1
+Internal Medicine,8.9
+Internal Medicine,5.3
+Internal Medicine,6.4
+Internal Medicine,7.7
+Internal Medicine,9.0
+Internal Medicine,6.0
+Internal Medicine,6.6
+Internal Medicine,4.8
+Internal Medicine,4.6
+Internal Medicine,8.6
+Internal Medicine,9.7
+Internal Medicine,6.9
+Internal Medicine,9.0
+Internal Medicine,7.7
+Internal Medicine,5.7
+Internal Medicine,7.7
+Internal Medicine,10.1
+Internal Medicine,6.9
+Internal Medicine,10.1
+Internal Medicine,1.8
+Internal Medicine,8.6
+Internal Medicine,7.2
+Internal Medicine,6.4
+Internal Medicine,7.2
+Internal Medicine,3.0
+Internal Medicine,6.6
+Internal Medicine,7.7
+Internal Medicine,10.0
+Internal Medicine,6.0
+Internal Medicine,5.4
+Internal Medicine,6.0
+Internal Medicine,8.8
+Internal Medicine,7.7
+Internal Medicine,5.9
+Internal Medicine,8.0
+Internal Medicine,7.2
+Internal Medicine,8.9
+Internal Medicine,5.6
+Internal Medicine,6.3
+Internal Medicine,6.2
+Internal Medicine,4.1
+Internal Medicine,7.6
+Internal Medicine,7.5
+Internal Medicine,7.0
+Internal Medicine,6.5
+Surgery,5.8
+Surgery,8.7
+Surgery,9.0
+Surgery,7.6
+Surgery,9.5
+Surgery,11.2
+Surgery,15.7
+Surgery,10.5
+Surgery,10.8
+Surgery,9.8
+Surgery,4.2
+Surgery,9.9
+Surgery,10.2
+Surgery,17.4
+Surgery,9.4
+Surgery,10.9
+Surgery,9.9
+Surgery,6.5
+Surgery,13.4
+Surgery,12.3
+Surgery,12.4
+Surgery,7.3
+Surgery,14.2
+Surgery,5.8
+Surgery,11.8
+Surgery,16.6
+Surgery,7.0
+Surgery,8.3
+Surgery,10.3
+Surgery,8.5
+Surgery,5.3
+Surgery,10.2
+Surgery,6.8
+Surgery,11.4
+Surgery,7.2
+Surgery,14.6
+Surgery,7.7
+Surgery,9.0
+Surgery,12.4
+Surgery,6.3
+Surgery,10.7
+Surgery,13.9
+Surgery,5.2
+Surgery,10.6
+Surgery,10.8
+Surgery,12.3
+Surgery,6.3
+Surgery,6.0
+Surgery,11.6
+Surgery,10.9
+Surgery,10.8
+Surgery,11.0
+Surgery,8.0
+Surgery,10.7
+Surgery,10.9
+Surgery,7.9
+Surgery,15.6
+Surgery,11.4
+Surgery,6.4
+Surgery,12.0
+Surgery,7.1
+Surgery,12.4
+Surgery,13.5
+Surgery,7.5
+Surgery,12.9
+Surgery,11.2
+Surgery,12.5
+Surgery,15.7
+Surgery,9.3
+Surgery,7.7
+Surgery,7.3
+Surgery,7.6
+Surgery,9.8
+Surgery,11.0
+Surgery,10.8
+Surgery,12.5
+Surgery,10.0
+Surgery,14.4
+Surgery,9.2
+Surgery,18.2
+Surgery,11.9
+Surgery,7.4
+Surgery,6.8
+Surgery,11.4
+Surgery,9.3
+Surgery,12.1
+Surgery,11.4
+Surgery,9.8
+Surgery,7.5
+Surgery,5.5
+Surgery,8.7
+Surgery,12.6
+Surgery,10.6
+Surgery,6.3
+Surgery,10.5
+Surgery,11.2
+Surgery,7.3
+Surgery,10.5
+Surgery,10.2
+Surgery,6.6
+Pediatrics,5.5
+Pediatrics,5.8
+Pediatrics,6.6
+Pediatrics,6.6
+Pediatrics,2.9
+Pediatrics,3.6
+Pediatrics,5.8
+Pediatrics,5.8
+Pediatrics,5.8
+Pediatrics,10.8
+Pediatrics,5.9
+Pediatrics,6.7
+Pediatrics,6.4
+Pediatrics,6.0
+Pediatrics,4.5
+Pediatrics,6.1
+Pediatrics,3.8
+Pediatrics,4.6
+Pediatrics,4.3
+Pediatrics,5.1
+Pediatrics,8.5
+Pediatrics,2.2
+Pediatrics,6.0
+Pediatrics,2.6
+Pediatrics,4.3
+Pediatrics,6.6
+Pediatrics,5.1
+Pediatrics,3.4
+Pediatrics,3.9
+Pediatrics,6.0
+Pediatrics,3.9
+Pediatrics,5.3
+Pediatrics,5.1
+Pediatrics,4.0
+Pediatrics,8.2
+Pediatrics,6.0
+Pediatrics,2.0
+Pediatrics,5.3
+Pediatrics,4.0
+Pediatrics,6.3
+Pediatrics,3.8
+Pediatrics,4.8
+Pediatrics,5.8
+Pediatrics,6.3
+Pediatrics,3.2
+Pediatrics,4.5
+Pediatrics,4.3
+Pediatrics,4.0
+Pediatrics,7.6
+Pediatrics,5.6
+Pediatrics,3.1
+Pediatrics,6.4
+Pediatrics,8.2
+Pediatrics,6.5
+Pediatrics,2.7
+Pediatrics,4.3
+Pediatrics,6.9
+Pediatrics,3.9
+Pediatrics,5.7
+Pediatrics,6.2
+Pediatrics,3.6
+Pediatrics,4.9
+Pediatrics,1.0
+Pediatrics,3.5
+Pediatrics,4.6
+Pediatrics,3.1
+Pediatrics,7.4
+Pediatrics,2.9
+Pediatrics,4.3
+Pediatrics,5.2
+Pediatrics,7.2
+Pediatrics,2.8
+Pediatrics,6.7
+Pediatrics,5.0
+Pediatrics,3.5
+Pediatrics,5.7
+Pediatrics,5.3
+Pediatrics,4.1
+Pediatrics,5.1
+Pediatrics,4.4
+Pediatrics,5.2
+Pediatrics,6.0
+Pediatrics,7.4
+Pediatrics,3.1
+Pediatrics,8.2
+Pediatrics,2.1
+Pediatrics,4.8
+Pediatrics,5.9
+Pediatrics,5.4
+Pediatrics,4.1
+Pediatrics,4.7
+Pediatrics,4.3
+Pediatrics,4.1
+Pediatrics,6.3
+Pediatrics,5.5
+Pediatrics,4.0
+Pediatrics,6.3
+Pediatrics,5.5
+Pediatrics,6.2
+Pediatrics,5.9

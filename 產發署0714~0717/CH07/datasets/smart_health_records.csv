@@ -1,0 +1,241 @@
+Patient_ID,Gender,Department,Age,BMI,Blood_Sugar,Blood_Pressure,Hospital_Stay_Days
+P0001,Male,Surgery,29,21.1,88.8,124,7.7
+P0002,Female,Surgery,86,18.4,122.1,126,10.5
+P0003,Female,Internal Medicine,79,16.7,128.6,128,6.9
+P0004,Male,Surgery,28,20.1,103.6,118,6.4
+P0005,Male,Internal Medicine,75,22.4,114.5,123,7.8
+P0006,Female,Surgery,28,23.0,80.1,122,6.9
+P0007,Male,Internal Medicine,71,30.8,130.0,112,6.1
+P0008,Female,Internal Medicine,26,27.9,86.8,128,4.2
+P0009,Male,Internal Medicine,54,20.6,118.3,91,4.9
+P0010,Male,Surgery,66,25.2,119.3,114,10.6
+P0011,Female,Internal Medicine,71,22.6,131.7,129,7.1
+P0012,Female,Cardiology,49,23.0,94.3,126,6.3
+P0013,Female,Surgery,85,24.6,133.6,120,10.4
+P0014,Female,Internal Medicine,74,26.2,123.0,124,8.6
+P0015,Female,Surgery,34,22.8,80.9,131,9.6
+P0016,Female,Internal Medicine,67,27.7,101.5,127,7.2
+P0017,Female,Cardiology,71,20.0,131.5,140,8.4
+P0018,Male,Surgery,43,24.0,98.0,123,9.4
+P0019,Female,Cardiology,72,33.1,111.7,142,8.7
+P0020,Male,Internal Medicine,83,24.8,131.1,143,8.1
+P0021,Female,Surgery,78,29.0,142.0,135,9.6
+P0022,Male,Surgery,74,24.3,98.1,120,9.3
+P0023,Male,Cardiology,65,26.0,100.8,128,6.9
+P0024,Female,Surgery,39,23.8,88.2,122,7.9
+P0025,Female,Surgery,76,23.4,144.5,116,9.8
+P0026,Female,Internal Medicine,45,21.3,107.1,117,5.3
+P0027,Male,Internal Medicine,57,25.5,122.0,121,6.2
+P0028,Female,Surgery,42,21.0,87.8,126,10.5
+P0029,Female,Surgery,42,26.3,88.1,126,7.5
+P0030,Male,Internal Medicine,31,27.8,98.6,124,4.9
+P0031,Male,Cardiology,88,25.3,136.7,130,8.6
+P0032,Male,Cardiology,30,23.0,99.1,121,5.3
+P0033,Male,Internal Medicine,26,25.6,87.2,127,4.4
+P0034,Female,Surgery,86,22.9,137.8,120,13.3
+P0035,Female,Internal Medicine,59,27.3,116.1,121,7.0
+P0036,Male,Surgery,51,17.6,117.6,124,10.3
+P0037,Female,Internal Medicine,72,22.8,133.7,122,9.0
+P0038,Female,Surgery,47,17.0,85.8,103,9.1
+P0039,Male,Surgery,29,18.8,70.0,117,8.4
+P0040,Female,Cardiology,71,28.8,135.3,137,7.1
+P0041,Male,Internal Medicine,32,27.1,108.3,113,5.5
+P0042,Female,Cardiology,59,21.5,102.0,124,7.1
+P0043,Female,Internal Medicine,87,18.7,112.9,128,7.5
+P0044,Male,Internal Medicine,86,16.0,135.7,122,7.7
+P0045,Male,Surgery,45,22.1,114.9,126,8.0
+P0046,Female,Internal Medicine,75,32.5,147.8,127,6.8
+P0047,Male,Cardiology,63,25.5,123.4,130,7.5
+P0048,Female,Cardiology,54,22.0,106.0,119,7.0
+P0049,Female,Internal Medicine,29,25.6,81.0,119,4.3
+P0050,Female,Cardiology,46,18.5,104.6,123,6.6
+P0051,Female,Internal Medicine,66,23.0,115.9,137,7.0
+P0052,Male,Surgery,90,24.3,125.3,144,11.3
+P0053,Male,Internal Medicine,20,23.7,109.6,129,3.1
+P0054,Male,Cardiology,70,26.8,143.9,129,7.5
+P0055,Male,Internal Medicine,80,25.2,143.6,133,7.2
+P0056,Male,Internal Medicine,87,26.3,124.2,138,6.4
+P0057,Female,Surgery,50,21.6,117.8,122,8.4
+P0058,Male,Cardiology,28,27.1,98.7,125,5.8
+P0059,Female,Cardiology,39,29.7,104.6,136,7.8
+P0060,Female,Surgery,80,20.6,145.0,123,10.9
+P0061,Female,Cardiology,82,20.9,139.1,119,9.1
+P0062,Female,Cardiology,65,28.7,127.6,129,9.3
+P0063,Male,Surgery,28,23.3,98.6,125,7.2
+P0064,Female,Internal Medicine,28,28.9,95.1,127,5.0
+P0065,Male,Cardiology,53,22.5,88.3,125,6.3
+P0066,Male,Surgery,61,29.1,116.8,137,8.7
+P0067,Female,Internal Medicine,22,24.5,79.8,117,5.8
+P0068,Male,Internal Medicine,68,24.9,105.6,134,5.7
+P0069,Male,Surgery,58,29.5,133.7,135,10.2
+P0070,Male,Internal Medicine,20,22.7,105.7,108,4.5
+P0071,Female,Cardiology,26,20.7,105.8,127,7.1
+P0072,Male,Internal Medicine,52,22.4,112.1,118,5.8
+P0073,Male,Internal Medicine,71,25.6,139.5,116,6.0
+P0074,Male,Cardiology,78,18.5,128.6,112,8.5
+P0075,Female,Internal Medicine,50,26.2,109.9,118,5.4
+P0076,Male,Internal Medicine,40,22.1,86.9,120,5.2
+P0077,Male,Surgery,88,28.0,140.8,132,9.5
+P0078,Male,Cardiology,52,16.0,109.7,111,8.7
+P0079,Female,Internal Medicine,42,21.2,85.9,124,4.8
+P0080,Female,Internal Medicine,51,18.1,107.6,119,6.0
+P0081,Female,Cardiology,20,21.1,84.0,118,4.6
+P0082,Male,Cardiology,41,24.9,122.3,127,6.7
+P0083,Male,Surgery,56,23.4,122.7,129,8.5
+P0084,Female,Internal Medicine,85,23.1,133.9,111,6.3
+P0085,Female,Internal Medicine,72,23.4,127.0,123,5.8
+P0086,Female,Internal Medicine,75,24.7,126.8,111,7.0
+P0087,Male,Internal Medicine,58,20.5,111.1,121,5.9
+P0088,Male,Surgery,27,26.5,77.3,123,7.3
+P0089,Female,Internal Medicine,47,26.3,103.4,135,5.2
+P0090,Female,Surgery,90,25.3,128.5,141,11.8
+P0091,Male,Surgery,23,25.9,72.2,124,8.3
+P0092,Female,Surgery,82,25.0,137.6,126,9.7
+P0093,Female,Internal Medicine,68,31.1,125.7,140,6.0
+P0094,Male,Cardiology,40,23.7,78.6,118,6.4
+P0095,Female,Surgery,75,22.9,124.8,126,8.8
+P0096,Male,Surgery,79,21.4,141.2,133,9.8
+P0097,Male,Internal Medicine,23,20.4,100.0,111,5.6
+P0098,Female,Internal Medicine,27,19.6,102.6,121,3.9
+P0099,Female,Cardiology,67,20.9,120.7,128,7.2
+P0100,Male,Internal Medicine,90,23.8,127.4,122,8.3
+P0101,Female,Internal Medicine,21,25.2,72.7,129,6.3
+P0102,Male,Surgery,67,24.2,124.4,132,11.4
+P0103,Female,Surgery,29,21.3,96.3,118,7.6
+P0104,Male,Cardiology,66,27.2,134.9,124,6.9
+P0105,Female,Internal Medicine,64,26.6,131.2,122,5.6
+P0106,Female,Cardiology,26,23.4,87.9,115,6.8
+P0107,Female,Internal Medicine,68,21.7,106.1,128,5.4
+P0108,Female,Surgery,83,25.9,128.4,123,12.2
+P0109,Male,Surgery,81,24.7,133.4,133,10.3
+P0110,Female,Internal Medicine,22,18.9,84.1,103,3.4
+P0111,Male,Internal Medicine,37,23.8,90.8,120,4.5
+P0112,Female,Surgery,37,24.9,100.8,124,7.4
+P0113,Female,Cardiology,52,20.9,103.0,140,9.3
+P0114,Male,Surgery,30,24.7,85.0,111,6.9
+P0115,Female,Cardiology,80,18.9,133.7,133,8.8
+P0116,Female,Cardiology,75,28.7,121.4,135,9.6
+P0117,Male,Surgery,77,28.4,130.7,137,9.8
+P0118,Male,Cardiology,34,23.1,98.8,121,6.9
+P0119,Male,Internal Medicine,21,25.3,72.1,125,4.5
+P0120,Male,Internal Medicine,84,16.0,127.2,117,6.3
+P0121,Male,Cardiology,40,20.0,117.3,129,8.6
+P0122,Female,Cardiology,66,23.0,105.6,121,7.7
+P0123,Female,Internal Medicine,84,20.2,107.6,133,7.3
+P0124,Male,Surgery,22,26.5,70.0,118,6.5
+P0125,Female,Surgery,20,31.0,85.3,128,9.7
+P0126,Female,Cardiology,20,19.9,85.4,105,6.0
+P0127,Male,Surgery,31,21.1,91.8,121,8.4
+P0128,Female,Surgery,23,24.8,101.8,132,10.3
+P0129,Female,Internal Medicine,78,29.6,96.4,135,6.4
+P0130,Female,Surgery,63,19.7,122.0,118,9.9
+P0131,Female,Surgery,89,24.9,155.5,122,10.7
+P0132,Female,Cardiology,76,30.4,113.5,134,8.3
+P0133,Male,Surgery,88,18.2,131.4,109,10.0
+P0134,Female,Internal Medicine,36,19.5,88.0,108,4.6
+P0135,Female,Internal Medicine,40,22.5,89.3,122,6.8
+P0136,Male,Surgery,80,22.2,126.1,136,9.3
+P0137,Female,Cardiology,37,26.8,114.9,148,5.9
+P0138,Male,Internal Medicine,24,24.8,110.0,116,5.4
+P0139,Male,Internal Medicine,67,17.8,116.2,130,7.1
+P0140,Male,Surgery,76,25.8,149.9,132,9.9
+P0141,Female,Internal Medicine,88,22.0,136.4,126,7.2
+P0142,Male,Cardiology,85,28.5,154.8,138,7.8
+P0143,Male,Internal Medicine,28,21.8,89.9,118,5.7
+P0144,Male,Internal Medicine,74,21.8,127.1,125,6.0
+P0145,Female,Cardiology,80,25.9,134.4,127,9.0
+P0146,Female,Internal Medicine,69,26.7,159.9,119,5.9
+P0147,Male,Internal Medicine,78,25.6,138.7,118,8.3
+P0148,Male,Internal Medicine,79,18.1,120.8,126,6.1
+P0149,Female,Internal Medicine,51,25.9,119.9,124,5.7
+P0150,Male,Internal Medicine,22,20.4,82.2,110,5.9
+P0151,Female,Internal Medicine,52,24.8,103.1,125,6.2
+P0152,Male,Internal Medicine,34,19.0,106.4,121,5.0
+P0153,Female,Internal Medicine,28,25.6,91.4,124,3.8
+P0154,Male,Surgery,28,21.2,94.3,112,7.0
+P0155,Male,Surgery,69,19.5,121.9,131,11.2
+P0156,Female,Internal Medicine,55,26.5,115.3,140,5.5
+P0157,Male,Internal Medicine,58,24.8,118.6,130,5.9
+P0158,Female,Surgery,72,21.9,100.8,132,12.7
+P0159,Female,Cardiology,58,29.1,121.5,141,6.7
+P0160,Female,Cardiology,64,22.5,106.2,133,7.9
+P0161,Female,Internal Medicine,26,24.1,72.2,125,3.9
+P0162,Female,Internal Medicine,80,24.9,129.3,134,6.7
+P0163,Male,Internal Medicine,51,21.8,109.3,125,5.3
+P0164,Male,Internal Medicine,31,25.6,84.9,114,5.1
+P0165,Male,Surgery,77,22.1,137.7,131,12.3
+P0166,Female,Surgery,72,22.6,107.9,114,9.1
+P0167,Male,Internal Medicine,23,28.8,82.4,120,4.2
+P0168,Male,Internal Medicine,33,20.4,87.7,127,5.0
+P0169,Male,Surgery,21,16.0,85.2,116,6.2
+P0170,Male,Internal Medicine,39,29.6,102.6,141,4.3
+P0171,Male,Cardiology,27,32.9,78.2,130,5.7
+P0172,Male,Internal Medicine,70,22.6,131.2,116,7.4
+P0173,Female,Cardiology,57,17.2,113.5,114,6.9
+P0174,Female,Internal Medicine,89,22.9,114.0,129,9.3
+P0175,Female,Cardiology,73,23.0,101.2,126,7.8
+P0176,Male,Cardiology,63,23.3,117.1,134,7.2
+P0177,Female,Cardiology,56,20.1,109.3,117,7.1
+P0178,Male,Cardiology,23,26.0,86.0,125,5.3
+P0179,Female,Cardiology,24,25.8,87.7,114,5.1
+P0180,Female,Surgery,63,18.8,120.0,122,8.7
+P0181,Female,Cardiology,20,26.4,96.4,122,5.9
+P0182,Male,Internal Medicine,23,31.2,73.9,123,5.7
+P0183,Male,Surgery,35,24.6,82.2,120,8.0
+P0184,Female,Surgery,82,22.8,118.4,125,9.7
+P0185,Male,Cardiology,52,23.5,112.5,121,6.7
+P0186,Male,Surgery,70,26.2,137.4,144,10.2
+P0187,Male,Internal Medicine,49,17.9,101.6,115,6.4
+P0188,Male,Surgery,32,24.6,70.0,120,8.5
+P0189,Male,Internal Medicine,46,22.6,84.1,105,5.7
+P0190,Male,Internal Medicine,26,30.5,79.5,121,5.6
+P0191,Female,Surgery,74,23.4,118.8,124,9.9
+P0192,Female,Surgery,33,29.8,89.8,123,7.3
+P0193,Female,Internal Medicine,46,20.1,105.0,129,6.7
+P0194,Male,Internal Medicine,89,26.1,133.0,131,6.5
+P0195,Female,Internal Medicine,62,25.1,129.1,137,5.6
+P0196,Male,Internal Medicine,52,21.0,100.9,121,5.4
+P0197,Male,Internal Medicine,58,24.6,103.2,126,5.2
+P0198,Male,Surgery,75,28.2,132.0,132,9.2
+P0199,Male,Internal Medicine,38,22.9,80.1,121,6.1
+P0200,Female,Cardiology,65,18.1,123.4,132,8.6
+P0201,Male,Cardiology,81,23.9,132.0,110,11.9
+P0202,Female,Surgery,60,20.8,113.2,105,8.5
+P0203,Male,Internal Medicine,51,22.8,127.3,118,4.8
+P0204,Female,Surgery,30,23.7,85.0,120,9.1
+P0205,Male,Cardiology,37,18.0,122.5,119,5.5
+P0206,Male,Surgery,87,18.3,132.5,126,11.2
+P0207,Female,Cardiology,58,25.7,98.2,124,8.0
+P0208,Female,Surgery,41,22.2,101.6,128,7.6
+P0209,Male,Surgery,49,16.0,93.8,121,8.8
+P0210,Female,Internal Medicine,61,26.7,106.7,130,6.1
+P0211,Male,Surgery,58,25.0,118.3,134,10.1
+P0212,Female,Internal Medicine,69,21.5,128.4,125,6.3
+P0213,Female,Surgery,38,19.4,91.0,111,7.6
+P0214,Male,Cardiology,66,26.9,131.3,135,9.6
+P0215,Female,Internal Medicine,51,25.2,122.1,126,7.3
+P0216,Male,Surgery,86,32.3,151.7,140,10.2
+P0217,Male,Internal Medicine,31,25.5,99.6,135,3.8
+P0218,Male,Surgery,30,25.4,108.9,103,7.4
+P0219,Male,Internal Medicine,52,23.4,86.4,112,6.7
+P0220,Female,Cardiology,56,26.9,108.2,119,8.1
+P0221,Male,Internal Medicine,69,26.2,111.3,127,5.9
+P0222,Male,Cardiology,48,28.4,107.4,127,6.2
+P0223,Female,Cardiology,84,22.2,126.1,114,8.4
+P0224,Male,Surgery,53,22.5,107.8,114,8.5
+P0225,Female,Cardiology,29,22.3,114.3,111,6.0
+P0226,Male,Cardiology,28,26.8,89.0,144,5.3
+P0227,Female,Cardiology,89,29.2,141.7,151,8.9
+P0228,Female,Internal Medicine,29,22.4,89.0,115,3.5
+P0229,Female,Surgery,87,22.5,136.2,124,10.1
+P0230,Male,Internal Medicine,39,25.1,99.3,114,4.6
+P0231,Male,Surgery,26,23.1,94.9,104,9.6
+P0232,Female,Internal Medicine,41,27.3,114.7,126,6.4
+P0233,Male,Surgery,63,16.1,137.0,107,10.0
+P0234,Female,Surgery,50,21.1,111.2,119,9.6
+P0235,Male,Surgery,75,21.3,133.3,111,10.0
+P0236,Female,Surgery,63,16.0,103.4,109,11.5
+P0237,Female,Cardiology,48,20.6,104.9,120,7.4
+P0238,Male,Cardiology,65,20.8,130.0,125,8.2
+P0239,Male,Surgery,88,23.3,146.4,132,9.4
+P0240,Female,Surgery,49,27.9,109.3,118,7.8

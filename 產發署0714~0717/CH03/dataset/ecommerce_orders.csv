@@ -1,0 +1,51 @@
+OrderID,CustomerName,OrderDate,ProductCategory,OrderAmount,Quantity,PaymentMethod
+O001,Customer1,2023-03-01,Electronics,250,2,Credit Card
+O002,Customer2,2023-03-02,Clothing,75,1,PayPal
+O003,Customer3,2023-03-03,Home,150,3,Debit Card
+O004,Customer4,2023-03-04,Books,45,1,Bank Transfer
+O005,Customer5,2023-03-05,Toys,60,2,Credit Card
+O006,Customer6,2023-03-06,Sports,120,4,PayPal
+O007,Customer7,2023-03-07,Electronics,300,1,Credit Card
+O008,Customer8,2023-03-08,Clothing,85,2,Debit Card
+O009,Customer9,2023-03-09,Home,200,3,PayPal
+O010,Customer10,2023-03-10,Books,55,1,Credit Card
+O011,Customer11,2023-03-11,Toys,65,2,Debit Card
+O012,Customer12,2023-03-12,Sports,130,3,Bank Transfer
+O013,Customer13,2023-03-13,Electronics,275,2,Credit Card
+O014,Customer14,2023-03-14,Clothing,90,1,PayPal
+O015,Customer15,2023-03-15,Home,160,2,Debit Card
+O016,Customer16,2023-03-16,Books,50,1,Credit Card
+O017,Customer17,2023-03-17,Toys,70,2,PayPal
+O018,Customer18,2023-03-18,Sports,140,3,Debit Card
+O019,Customer19,2023-03-19,Electronics,320,1,Bank Transfer
+O020,Customer20,2023-03-20,Clothing,95,2,Credit Card
+O021,Customer21,2023-03-21,Home,180,3,PayPal
+O022,Customer22,2023-03-22,Books,60,1,Debit Card
+O023,Customer23,2023-03-23,Toys,75,2,Credit Card
+O024,Customer24,2023-03-24,Sports,150,3,PayPal
+O025,Customer25,2023-03-25,,260,2,Debit Card
+O026,Customer26,2023-03-26,Clothing,80,1,Credit Card
+O027,Customer27,2023-03-27,Home,170,2,PayPal
+O028,Customer28,2023-03-28,Books,40,1,Debit Card
+O029,Customer29,2023-03-29,Toys,68,2,Credit Card
+O030,Customer30,2023-03-30,Sports,155,3,PayPal
+O031,Customer31,2023-03-31,Electronics,290,2,Credit Card
+O032,Customer32,2023-04-01,Clothing,85,1,Debit Card
+O033,Customer33,2023-04-02,Home,210,3,Credit Card
+O034,Customer34,2023-04-03,Books,52,1,PayPal
+O035,Customer35,2023-04-04,Toys,,2,Debit Card
+O036,Customer36,2023-04-05,Sports,145,3,Credit Card
+O037,Customer37,2023-04-06,Electronics,310,1,PayPal
+O038,Customer38,2023-04-07,Clothing,90,2,Debit Card
+O039,Customer39,2023-04-08,Home,195,3,Credit Card
+O040,Customer40,2023-04-09,Books,58,1,
+O041,Customer41,2023-04-10,Toys,72,2,Debit Card
+O042,Customer42,2023-04-11,Sports,160,3,Credit Card
+O043,Customer43,2023-04-12,Electronics,330,1,PayPal
+O044,Customer44,2023-04-13,Clothing,88,2,Debit Card
+O045,Customer45,2023-04-14,Home,185,3,Credit Card
+O046,Customer46,2023-04-15,Books,54,1,PayPal
+O047,Customer47,2023-04-16,Toys,77,2,Debit Card
+O048,Customer48,2023-04-17,Sports,165,3,Credit Card
+O049,Customer49,2023-04-18,Electronics,305,2,PayPal
+O049,Customer49,2023-04-18,Electronics,305,2,PayPal
